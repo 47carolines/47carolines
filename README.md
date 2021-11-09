@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caroline L
-- 👀 I’m interested in web development, WPF/UWP development, and game development (specifically VR apps for your iPhone)
-- 🌱 I’m currently learning test automation
+- 👀 I’m interested in web development, software security, and developing new skills
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: via email, 47carolines@gmail.com
 <!---
