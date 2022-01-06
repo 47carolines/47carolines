@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caroline L
 - 👀 I’m interested in web development, software security, and developing new skills
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: via email, 47carolines@gmail.com
 <!---
